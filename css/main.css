@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    font-family: "Mochi";
+    color :red;
+}
+
+@font-face {
+    font-family: "Mochi";
+    src: url("MochiyPopPOne-Regular.ttf");
+}
